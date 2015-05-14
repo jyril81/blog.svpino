@@ -1,0 +1,1 @@
+My solutions to programming challenges posted at https://blog.svpino.com/
