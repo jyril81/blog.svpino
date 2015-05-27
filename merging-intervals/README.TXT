@@ -1,0 +1,1 @@
+My solution to https://blog.svpino.com/2015/05/17/programming-challenge-merging-overlapping-intervals
