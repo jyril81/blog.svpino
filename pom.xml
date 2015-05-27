@@ -21,6 +21,7 @@
         <module>matrix-rotation</module>
         <module>initial-challenges</module>
         <module>merging-intervals</module>
+        <module>element-position</module>
     </modules>
 
     <dependencyManagement>
