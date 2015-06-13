@@ -22,6 +22,7 @@
         <module>initial-challenges</module>
         <module>merging-intervals</module>
         <module>element-position</module>
+        <module>hanoi</module>
     </modules>
 
     <dependencyManagement>
