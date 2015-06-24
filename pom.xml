@@ -23,6 +23,7 @@
         <module>merging-intervals</module>
         <module>element-position</module>
         <module>hanoi</module>
+        <module>boolean-parenthesization</module>
     </modules>
 
     <dependencyManagement>
